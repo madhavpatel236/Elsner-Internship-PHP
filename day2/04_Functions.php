@@ -37,8 +37,4 @@ $Arrow = fn( $a ) => $a + 1  ;
 echo $Arrow($a);
 
 
-
-
-
-
 ?>
